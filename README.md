@@ -27,17 +27,6 @@ HTML
 CSS
 PowerShell
 
-PROJECT STRUCTUIRE -
-CODSOFT-DevOps-Task1-Dockerized-Web-Application/
-│
-├── .dockerignore
-├── .gitignore
-├── Dockerfile
-├── package.json
-├── package-lock.json
-├── README.md
-└── server.js
-
 ### Workflow
 
 ```text
